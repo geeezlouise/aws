@@ -1,3 +1,4 @@
+from aws import data_access_s3
 
 
 def main():
@@ -10,3 +11,4 @@ def main():
 
 if __name__ == '__main__':   # dunder
     main()
+
